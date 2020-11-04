@@ -145,11 +145,7 @@ mImageView.setImageBitmap(
 
 >这是对inSampleSize的注释翻译
 
-![Lucidastar](https://mmbiz.qpic.cn/mmbiz_jpg/iccib9G9IAFPhSwdibNCmTBzKD57YoqXpT0HhDKLNX4dVHIo44H5IiaOOHxpQUw0c8Yn63vGNBxyJPfYsqpraxiaeyQ/0?wx_fmt=jpeg)
 
-|      |      |      |
-| ---- | ---- | ---- |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+![Lucidastar](/images/qrcode_for_gh.jpg)
+
 
